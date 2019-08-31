@@ -1,0 +1,16 @@
+http://10.11.200.169/index.php?page=e43ad1fdc54babe674da7c7b8f0127bde61de3fbe01def7d00f151c2fcca6d1c
+
+    Inspect element: Regarder le commentaire, dedans il y a deux indices. 
+	    
+		    Le premier: 
+			Let's use this browser : "ft_bornToSec". It will help you a lot.
+			Le deuxieme:
+			    You must cumming from : "https://www.nsa.gov/" to go to the next step
+
+
+
+				En restant sur la meme page qu’avant modifier l’en tete de la requete avec: 
+
+				Referer https://www.nsa.gov/ 
+				User-Agent: ft_bornToSec
+
