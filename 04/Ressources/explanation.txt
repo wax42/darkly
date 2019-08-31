@@ -1,0 +1,7 @@
+Modifie le cookie i_am_admin, par le md5 de true
+
+ i_am_admin: b326b5062b2f0e69046810717534cb09
+
+
+
+
