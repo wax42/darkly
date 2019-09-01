@@ -1,5 +1,7 @@
 # Explication
 
+nom de la faille: etc/passwsd
+
 En testant plusieurs, valeurs différentes sur le paramètre page de l'URL.
 
 On constate que à chaque fois qu'on descend en profondeur dans l'arborescence.
