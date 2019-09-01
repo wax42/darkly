@@ -1,9 +1,0 @@
-Go to:
-http://127.0.0.1:8000/?page=recover
-
-Inspect the html source.
-
-Change the value of the input mail.
-
-The value can be set at "".
-

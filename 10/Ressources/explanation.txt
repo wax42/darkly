@@ -1,5 +1,0 @@
-Découvert du dossier .hidden -> http://10.11.200.169:8000/.hidden/ (ou 127.0.0.1 ? à modifier)
-
-Analyse du dossier .hidden -> Scraper en python qui parcourt toute l'arborescence en récursif
-
-requests.get de chaque README

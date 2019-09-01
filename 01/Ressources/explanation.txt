@@ -1,7 +1,0 @@
-
-Go to:
-http://127.0.0.1:8000/index.php?page=survey#
-
-Inspect the html source.
-
-Change one value of the select form tag. The value must be set at 11.

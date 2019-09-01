@@ -1,9 +1,0 @@
-
-http://192.168.1.40/?page=../../../../../../../etc/passwd
-
-Okk bah euh ça marche !
-
-Plus tu remontes avec des ../../../../ plus l’alert est differentes.
-
-Et le but etant d’aller chercher dans le serveur les passwd admin
-
