@@ -1,0 +1,4 @@
+    Page=feedback
+   Injection XSS nul
+    mettre script dans l’input name
+
