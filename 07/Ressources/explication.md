@@ -2,7 +2,7 @@
 
 Nom de la faille:  SQL_injection_member
 
-Aller sur l'URL:  `http://IP_DARKLY/index.php?page=member`
+Aller sur l'URL:  `http://10.11.200.169/index.php?page=member`
 
 Il y a un input afin de chercher un memebre.
 

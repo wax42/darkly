@@ -2,7 +2,7 @@
 
 Nom de la faille:           inspect_recover_password?
 
-Aller sur l'url: `http://IP_DARKLY/?page=recover`
+Aller sur l'url: `http://10.11.200.169/?page=recover`
 
 
 Inspecter le code source de la page.

@@ -2,7 +2,7 @@
 
 Nom de la faille:  Member_Brute_Force
 
-Aller sur l'URL:  `http://IP_DARKLY/index.php?page=searchimg`
+Aller sur l'URL:  `http://10.11.200.169/index.php?page=searchimg`
 
 Il y a un input afin de chercher une image.
 

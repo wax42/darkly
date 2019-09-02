@@ -6,7 +6,7 @@ En inspectant le code source, nous pouvans constater que dans le `footer` se tro
 
 En copiant le lien et modifiant le site de la redirection. Nous tombons sur le flag.
 
-Aller sur l'url: `http://IP_DARKLY/index.php?page=redirect&site=`
+Aller sur l'url: `http://10.11.200.169/index.php?page=redirect&site=`
 
 # Comment profiter de la faille ?
 

@@ -3,7 +3,7 @@
 
 Nom de la faille:           inspect...?
 
-Aller sur l'url: `http://IP_DARKLY/index.php?page=survey#`
+Aller sur l'url: `http://10.11.200.169/index.php?page=survey#`
 
 
 Inspecter le code source de la page.

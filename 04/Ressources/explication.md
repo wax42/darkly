@@ -2,7 +2,7 @@
 
 Nom de la faille:   cookies
 
-Aller sur l'url: `http://IP_DARKLY/`
+Aller sur l'url: `http://10.11.200.169/`
 
 En inspectant le header de la requête. On peut voir qu'il y a un cookie.
 
